@@ -16,7 +16,6 @@
   "The solar system consists of the sun and the planets that orbit around the sun and are called the solar system and..."
 
 ## How to Run:
-- `python classification_model.py`
-- `python text_generation_model.py`
+- `python RNN_NLP.py`
 # RNN-NLP
 You are required to design and implement a single, simple RNN model that can perform two distinct NLP tasks
